@@ -1,0 +1,19 @@
+{
+  "name": "jenkins2.0-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArmandDu/jenkins2.0-demo.git"
+  },
+  "author": "ArmandDu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArmandDu/jenkins2.0-demo/issues"
+  },
+  "homepage": "https://github.com/ArmandDu/jenkins2.0-demo#readme"
+}
